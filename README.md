@@ -2,6 +2,9 @@
 # Hey there! 👋
 I'm 다은, a passionate developer interested in SSAFY. Welcome to my GitHub profile!
 
+- [ ] 체크
+- [x] 체크
+
 <!-- 기술 스택 -->
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
